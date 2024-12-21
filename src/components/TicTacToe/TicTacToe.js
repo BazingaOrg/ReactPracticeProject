@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+import "./TicTacToe.css";
 import Board from "./Board";
 
 export default function TicTacToe() {
